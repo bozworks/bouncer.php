@@ -1,0 +1,29 @@
+{
+  "name": "bozworks/bouncer.php",
+  "type": "library",
+  "description": "🖐️ Bouncer is a library that allows you to flexible, quickly and easy to use filter and validate HTML forms.",
+  "authors": [
+      {
+          "name": "Onur Boz",
+          "email": "onurboz@onurboz.com",
+          "homepage": "https://onurboz.com"
+      },
+      {
+          "name": "Boz Works",
+          "email": "hi@boz.works",
+          "homepage": "https://boz.works"
+      }
+  ],
+  "require": {
+      "php": ">=5.5.0"
+  },
+  "autoload": {
+      "psr-4": {
+          "Boz\\": "src/"
+      }
+  },
+  "license": "mit",
+  "keywords": [
+      "bouncer","form","validation","filter","rule","php"
+  ]
+}
