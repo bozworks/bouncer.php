@@ -2,7 +2,7 @@
 
 **Bouncer** is a library that allows you to flexible, quickly and easy to use filter and validate HTML forms.
 
-[Examples](../../tree/main/examples) · [Open issue](../../issues/new/choose) · [Report bug](../../issues/new/bug)
+[Examples](../../tree/master/examples) · [Open issue](../../issues/new/choose) · [Report bug](../../issues/new/bug)
 
 ## Table of contents
 
@@ -47,7 +47,7 @@ composer require bozworks/bouncer.php
 ```
 ### Without Composer
 
-Bouncer does not have any dependencies. Therefore, you can [download](../../archive/refs/heads/main.zip) and include it directly in your file and start using it:
+Bouncer does not have any dependencies. Therefore, you can [download](../../archive/refs/heads/master.zip) and include it directly in your file and start using it:
 
 ```php
 <?php
