@@ -2,7 +2,7 @@
 
 **Bouncer** is a library that allows you to flexible, quickly and easy to use filter and validate HTML forms.
 
-[Examples](../../tree/master/examples) · [Open issue](../../issues/new/choose) · [Report bug](../../issues/new/bug)
+[Examples](../../tree/master/examples) · [Open issue](../../issues/new/choose) · [Report bug](../../issues/new?assignees=&labels=&template=bug_report.md&title=)
 
 ## Table of contents
 
