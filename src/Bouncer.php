@@ -1402,7 +1402,7 @@ class Bouncer
   /**
    * Return body
    *
-   * @return array   body.
+   * @return object   body.
    */
   private function getBody()
   {
